@@ -1,0 +1,15 @@
+.DS_Store
+
+# C/C++ build artifacts
+build/
+dist/
+out/
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.exe
+
+# Logs
+*.log
