@@ -2,12 +2,12 @@
   "name": "ServoK210",
   "keywords": "servo, k210",
   "description": "Generate RC servo signal on a selected pins with K210 device and Arduino framework.",
-  "homepage": "https://github.com/openblockcc/ServoK210/",
+  "homepage": "https://github.com/robocoders-software/ServoK210/",
   "license": "MIT",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/openblockcc/ServoK210.git"
+    "url": "https://github.com/robocoders-software/ServoK210.git"
   },
   "authors":
   {
